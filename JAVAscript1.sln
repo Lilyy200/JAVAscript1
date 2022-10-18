@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8F09173-179A-45E3-B1D3-023DD354431D}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage1.html = HTMLPage1.html
+		HTMLPage3task1.html = HTMLPage3task1.html
 		Script1.js = Script1.js
 		task2.html = task2.html
 		task3.html = task3.html
